@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="za.co.hotelbooking.BookingTest" duration-ms="61613" started-at="2018-04-29T10:37:53Z" finished-at="2018-04-29T10:38:54Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="61613" started-at="2018-04-29T10:37:53Z" finished-at="2018-04-29T10:38:54Z">
+      <class name="za.co.hotelbooking.BookingTest">
+        <test-method status="PASS" signature="setupBeforSuite()[pri:0, instance:za.co.hotelbooking.BookingTest@7a5d012c]" name="setupBeforSuite" is-config="true" duration-ms="498" started-at="2018-04-29T12:37:52Z" finished-at="2018-04-29T12:37:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforSuite -->
+        <test-method status="PASS" signature="setupBeforeTest()[pri:0, instance:za.co.hotelbooking.BookingTest@7a5d012c]" name="setupBeforeTest" is-config="true" duration-ms="14428" started-at="2018-04-29T12:37:53Z" finished-at="2018-04-29T12:38:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeTest -->
+        <test-method status="PASS" signature="hotelBookingScenario01()[pri:0, instance:za.co.hotelbooking.BookingTest@7a5d012c]" name="hotelBookingScenario01" duration-ms="6229" started-at="2018-04-29T12:38:07Z" finished-at="2018-04-29T12:38:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotelBookingScenario01 -->
+        <test-method status="PASS" signature="teardownAfterTest()[pri:0, instance:za.co.hotelbooking.BookingTest@7a5d012c]" name="teardownAfterTest" is-config="true" duration-ms="66" started-at="2018-04-29T12:38:13Z" finished-at="2018-04-29T12:38:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownAfterTest -->
+        <test-method status="PASS" signature="setupBeforeTest()[pri:0, instance:za.co.hotelbooking.BookingTest@7a5d012c]" name="setupBeforeTest" is-config="true" duration-ms="11012" started-at="2018-04-29T12:38:13Z" finished-at="2018-04-29T12:38:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeTest -->
+        <test-method status="PASS" signature="hotelBookingScenario02()[pri:0, instance:za.co.hotelbooking.BookingTest@7a5d012c]" name="hotelBookingScenario02" duration-ms="4599" started-at="2018-04-29T12:38:24Z" finished-at="2018-04-29T12:38:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotelBookingScenario02 -->
+        <test-method status="PASS" signature="teardownAfterTest()[pri:0, instance:za.co.hotelbooking.BookingTest@7a5d012c]" name="teardownAfterTest" is-config="true" duration-ms="59" started-at="2018-04-29T12:38:29Z" finished-at="2018-04-29T12:38:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownAfterTest -->
+        <test-method status="PASS" signature="setupBeforeTest()[pri:0, instance:za.co.hotelbooking.BookingTest@7a5d012c]" name="setupBeforeTest" is-config="true" duration-ms="11011" started-at="2018-04-29T12:38:29Z" finished-at="2018-04-29T12:38:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeTest -->
+        <test-method status="PASS" signature="hotelBookingScenario03()[pri:0, instance:za.co.hotelbooking.BookingTest@7a5d012c]" name="hotelBookingScenario03" duration-ms="14138" started-at="2018-04-29T12:38:40Z" finished-at="2018-04-29T12:38:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotelBookingScenario03 -->
+        <test-method status="PASS" signature="teardownAfterTest()[pri:0, instance:za.co.hotelbooking.BookingTest@7a5d012c]" name="teardownAfterTest" is-config="true" duration-ms="62" started-at="2018-04-29T12:38:54Z" finished-at="2018-04-29T12:38:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownAfterTest -->
+      </class> <!-- za.co.hotelbooking.BookingTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- za.co.hotelbooking.BookingTest -->
+</testng-results>
